@@ -4,3 +4,6 @@ function hola1gabriel() {
 function hola2gabriel() {
     console.log("Hola de nuevo desde Gabriel.js");
 }   
+function hola3gabriel() {
+    console.log("Hola por tercera vez desde Gabriel.js");
+}
