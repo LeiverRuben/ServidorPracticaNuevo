@@ -1,0 +1,6 @@
+function hola1gabriel() {
+    console.log("Hola desde Gabriel.js");
+}
+function hola2gabriel() {
+    console.log("Hola de nuevo desde Gabriel.js");
+}   
