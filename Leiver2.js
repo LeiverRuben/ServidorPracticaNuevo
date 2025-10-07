@@ -1,9 +1,8 @@
-function hola1() {
+function hola2() {
     var mensaje = "Hola1";
     console.log(mensaje);
 }
-
-function hola3() {
+function hola4() {
     var mensaje = "Hola1";
     console.log(mensaje);
 }
